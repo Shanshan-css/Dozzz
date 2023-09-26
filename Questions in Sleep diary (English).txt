@@ -1,0 +1,21 @@
+Positive questions:
+"Oké! Dan zie ik je snel! Laat het me alsjeblieft weten wanneer je klaar bent."
+"Oh nee! Ik hoop dat je je snel beter voelt!","In welk bed heb je afgelopen nacht geslapen?"
+"Oh nee!","Weet je waarom je slecht hebt geslapen?"
+"Oh nee!", "Heb je gisteren veel televisie gekeken of videogames gespeeld?"
+"What heb je gisteren gegeten en gedronken?"
+"Oh nee!","Wat is iets wat je graag doet?"
+"Dat maakt me verdrietig!","Is er misschien iets gebeurd gisteren? Of moet je vandaag iets doen wat niet zo leuk is?"
+"Oh nee!","Wat is iets wat je graag doet?"
+"Oké! Veel succes en veel plezier vandaag! Ik zie je morgen!"
+
+Negative questions:
+"Ok! Then I will see you soon! Please let me know when you are ready"
+"Oh No! Hope you feel better soon!","In which bed have you slept last night?"
+"Oh No!","Do you know why you have slept bad?"
+"Oh no!", "Did you watch a lot of tv or played video games yesterday?"
+"What did you eat and drink yesterday?"
+"Oh no!","What is something you like to do?"
+"That makes me sad!","Did maybe something happen yesterday? Or do you need to do something not so nice today?"
+"Oh no!","What is something you like to do?"
+"Okay! Good luck today and have fun! I will see you tomorrow!"
